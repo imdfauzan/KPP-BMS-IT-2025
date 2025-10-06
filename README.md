@@ -8,5 +8,5 @@
 |Nafis Faqih Allmuzaky Maolidi|5027241095|
 |Imam Mahmud Dalil Fauzan|5027241100|
 # Links:
-Vercel: https://kpp-bms-25.vercel.app/web.html    
+Vercel: https://kpp-bms-25.vercel.app/index.html    
 Figma: https://www.figma.com/design/tRoTwNq6KGjbKI3SXfcp8z/KPP-BMS?node-id=0-1&t=WY5TirJFf6co10o5-1
